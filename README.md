@@ -3,7 +3,7 @@
 👋 Olá, Seja Bem-Vindo! / Hi, Welcome! <br>
 🔭 Estou trabalhando em varios projetos / Working on Different projects <br>
 🌱 Estou aprendendo Javascript e Java / I’m currently learning Javascript and Java <br>
-📫 Fale comigo / Reach me in linkedin [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-willian-60544476)<br><br><br>
+📫 Fale comigo / Reach me in linkedin [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosmwx/)<br><br><br>
    
 
 
